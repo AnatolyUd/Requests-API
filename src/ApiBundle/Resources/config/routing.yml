@@ -1,0 +1,9 @@
+api_storerequest_index:
+    path:     /storerequest/{route}
+    defaults: { _controller: ApiBundle:StoreRequest:index, route: '' }
+    methods: [GET, POST, PUT, DELETE]
+
+api_getrequest_index:
+    path:     /getrequest
+    defaults: { _controller: ApiBundle:GetRequest:index }
+    methods: [GET]

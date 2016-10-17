@@ -4,7 +4,7 @@ By Anatoly Udod
 
 About
 ---
-Provides ability to save request info to it and get list of recieved requests.
+Provides ability to save request info to it and get list of received requests.
 
 Requirements
 ---
